@@ -1,7 +1,7 @@
 package org.beta.curs15.homeworkTests.exercise1;
 
 import org.assertj.core.api.Assertions;
-import org.beta.curs15.homework.exercise1.NumbersSumRecursive;
+import org.beta.curs15.homework.recursive.exercise1.NumbersSumRecursive;
 import org.beta.curs15.homework.exceptions.InvalidInputException;
 import org.beta.curs15.homework.exceptions.NullInputException;
 import org.junit.jupiter.api.Test;

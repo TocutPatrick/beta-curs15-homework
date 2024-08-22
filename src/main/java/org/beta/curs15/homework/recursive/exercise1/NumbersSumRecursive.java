@@ -1,4 +1,4 @@
-package org.beta.curs15.homework.exercise1;
+package org.beta.curs15.homework.recursive.exercise1;
 
 import org.beta.curs15.homework.exceptions.InvalidInputException;
 import org.beta.curs15.homework.exceptions.NullInputException;

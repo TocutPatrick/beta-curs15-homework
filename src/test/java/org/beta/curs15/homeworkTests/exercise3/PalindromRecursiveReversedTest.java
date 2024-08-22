@@ -2,7 +2,7 @@ package org.beta.curs15.homeworkTests.exercise3;
 
 import org.assertj.core.api.Assertions;
 import org.beta.curs15.homework.exceptions.NullInputException;
-import org.beta.curs15.homework.exercise3.PalindromRecursiveReversed;
+import org.beta.curs15.homework.recursive.exercise3.PalindromRecursiveReversed;
 import org.junit.jupiter.api.Test;
 
 public class PalindromRecursiveReversedTest {

@@ -3,7 +3,7 @@ package org.beta.curs15.homeworkTests.exercise4;
 import org.assertj.core.api.Assertions;
 import org.beta.curs15.homework.exceptions.InvalidInputException;
 import org.beta.curs15.homework.exceptions.NullInputException;
-import org.beta.curs15.homework.exercise4.DigitsSum;
+import org.beta.curs15.homework.recursive.exercise4.DigitsSum;
 import org.junit.jupiter.api.Test;
 
 public class DigitsSumTest {
